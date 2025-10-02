@@ -1,0 +1,32 @@
+# Deep Learning Framework
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Computer Vision
+opencv-python>=4.5.0
+Pillow>=8.3.0
+
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Image Processing
+scikit-image>=0.18.0
+imageio>=2.9.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipython>=7.25.0
+
+# Utility Libraries
+tqdm>=4.60.0
+h5py>=3.1.0
+
+# Model Optimization
+tensorboard>=2.8.0
